@@ -14,3 +14,5 @@ The created folder name starts with "CM files", then adds the facility ID, and f
 Each file has a name with the patient's name, the patient's new case mix code, and the effective date. This is all the needed data from that letter.
 
 Data validation ensures that a true case mix notice has been selected; the software will not attempt to process a PDF that is not a case mix notice.
+
+The uploaded executable was compiled for Windows systemts and has no dependencies.
