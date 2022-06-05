@@ -1,5 +1,5 @@
 # CMN_Splitter
-Highly specific software to split MN Department of Health case mix notice files
+Highly specific Python software to split MN Department of Health case mix notice files
 
 This was my very first software for use in any kind of professional context.
 I want to rewrite this software to make a number of changes.
