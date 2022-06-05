@@ -11,6 +11,7 @@ if __name__ == '__main__':
     from PIL import Image, ImageTk
 
     # This function allows this program to include and still find image files (here new_logo.jpg) when compiled as a single file (not a directory).
+    # This function is not needed to run this code (rather than compile it and run it). However, code in the # Placing logo section would need to be updated if this function is deleted.
     # This function is modified from the function provided by auto-py-to-exe author Brent Vollebregt (https://nitratine.net/blog/post/issues-when-using-auto-py-to-exe/#additional-information-and-explanations).
     # He got it from a Stack Overflow post (https://stackoverflow.com/questions/7674790/bundling-data-files-with-pyinstaller-onefile).
     # Called in # Placing logo section of this main conditional
