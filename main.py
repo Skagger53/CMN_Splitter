@@ -13,6 +13,7 @@ if __name__ == '__main__':
     # This function allows this program to include and still find image files (here new_logo.jpg) when compiled as a single file (not a directory).
     # This function is modified from the function provided by auto-py-to-exe author Brent Vollebregt (https://nitratine.net/blog/post/issues-when-using-auto-py-to-exe/#additional-information-and-explanations).
     # He got it from a Stack Overflow post (https://stackoverflow.com/questions/7674790/bundling-data-files-with-pyinstaller-onefile).
+    # Called in # Placing logo section of this main conditional
     def resource_path(relative_path):
         try: base_path = sys._MEIPASS # PyInstaller creates a temp folder and stores path in _MEIPASS
         except: base_path = os.path.abspath(".")
