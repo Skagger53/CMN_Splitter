@@ -6,6 +6,20 @@ https://github.com/jsvine/pdfplumber
 License
 https://github.com/jsvine/pdfplumber/blob/stable/LICENSE.txt
 
+os
+Part of Python's standard utility modules
+About
+https://docs.python.org/3/library/os.html
+Python license
+https://docs.python.org/3/license.html
+
+sys
+Part of Python's standard utility modules
+About
+https://docs.python.org/3/library/sys.html
+Python license
+https://docs.python.org/3/license.html
+
 Tkinter
 Part of Python's standard utility modules
 About
